@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "91719705545",
+    "firebase_url": "https://sharetalk-2d97a.firebaseio.com",
+    "project_id": "sharetalk-2d97a",
+    "storage_bucket": "sharetalk-2d97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91719705545:android:27f1a334fc5ee66d11be18",
+        "android_client_info": {
+          "package_name": "com.example.sharetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91719705545-rim68p2sp9ljqm4b631p8pq89gtkb25a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharetalk",
+            "certificate_hash": "ab10d41c8a281ea5f95c20cb2366072f62ea09d4"
+          }
+        },
+        {
+          "client_id": "91719705545-v4i8ihffqv0feb5u8fci6mouiu5b5q9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharetalk",
+            "certificate_hash": "ef6061a2ba9507317e36f29fa0ae60ae56de0602"
+          }
+        },
+        {
+          "client_id": "91719705545-2c6eof29n502hpi58rubeo2tc8mrk9e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPEPLdb-2EVElLBwqKvTLnK8NeLzSxCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91719705545-2c6eof29n502hpi58rubeo2tc8mrk9e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
